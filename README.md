@@ -62,13 +62,12 @@ TensorFlow / Colaboratory / 基礎統計学 / t検定 / ウィルコクソンの
 
 
 ## 過去の登壇
-* [Sports Analyst Meetup #8](https://speakerdeck.com/hikarut/briguniokerusheng-bai-toarinaji-ke-fen-xi)
-* [第５回 データアーキテクト（データ整備人）を”前向きに”考える会](https://speakerdeck.com/hikarut/zerokarazuo-tuta-detasaiensuzu-zhi-deyi-shi-sitashi)
-* [複業イベント(Another Worker's Runway)](https://peatix.com/event/1496243?fbclid=IwAR3QtnhQbw-Evx4QidJwJfuR-7RleqyiNEdasSfzsEZHSJuPGYpGwlfUWTo)
-* [複業イベント(Work Hack Day ITエンジニアの複業のはじめ方と複業の実態)](https://techplay.jp/event/780957)
+* 登壇資料：[Speaker Deck](https://speakerdeck.com/hikarut)
 * [複業イベント(システムエンジニアの複業のはじめ方)](https://techplay.jp/event/784515)
-* その他登壇資料
-  * [Speaker Deck](https://speakerdeck.com/hikarut)
+* [複業イベント(Work Hack Day ITエンジニアの複業のはじめ方と複業の実態)](https://techplay.jp/event/780957)
+* [複業イベント(Another Worker's Runway)](https://peatix.com/event/1496243?fbclid=IwAR3QtnhQbw-Evx4QidJwJfuR-7RleqyiNEdasSfzsEZHSJuPGYpGwlfUWTo)
+* [第５回 データアーキテクト（データ整備人）を”前向きに”考える会](https://speakerdeck.com/hikarut/zerokarazuo-tuta-detasaiensuzu-zhi-deyi-shi-sitashi)
+* [Sports Analyst Meetup #8](https://speakerdeck.com/hikarut/briguniokerusheng-bai-toarinaji-ke-fen-xi)
 
 
 ## 個人開発歴
