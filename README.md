@@ -6,9 +6,9 @@
 |key|value|
 |---|-----|
 |Name|高橋 光(Hikaru Takahashi)|
+|Twitter|[@light940](https://twitter.com/light940)|
 |Qiita|[hikarut](https://qiita.com/hikarut)|
 |Speakerdeck|[hikarut](https://speakerdeck.com/hikarut)|
-|Twitter|[@light940](https://twitter.com/light940)|
 
 #### 本業
 * Webエンジニアからのデータサイエンティスト+マネジメント
