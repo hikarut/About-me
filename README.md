@@ -31,7 +31,7 @@ Linux / Apache / bash / zsh / PHPUnit / Swift / ReactNative / Heroku / Firebase 
 Python / Jupyter Notebook / Tableau / Google Analytics / Google Data Studio / SQL
 
 ###### 触ったことがある
-TensorFlow / Colaboratory / 基礎統計学 / t検定 / ウィルコクソンの順位和検定 / ウィルコクソンの符号順位和検定 / 割合の差の検定(比率の差の検定) / カイ二乗検定 / 回帰分析 / 重回帰分析 / ロジスティック回帰分析 / 決定木分析 / 機械学習
+TensorFlow / Colaboratory / 基礎統計学 / t検定 / ウィルコクソンの順位和検定 / ウィルコクソンの符号順位和検定 / 割合の差の検定(比率の差の検定) / カイ二乗検定 / 単回帰分析 / 重回帰分析 / ロジスティック回帰分析 / 決定木分析 / 機械学習
 
 ## 強み
 * フロントエンド、サーバサイド、バックエンドなどフルスタックでWEBサービスを企画、設計、開発、運用ができるエンジニアリングスキル
