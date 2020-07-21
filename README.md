@@ -74,8 +74,8 @@ TensorFlow / Colaboratory / 基礎統計学 / t検定 / ウィルコクソンの
 ## 個人開発歴
 |年|開発単位|使用技術|内容|資料|
 |---|---|---|---|---|
-|2016年3月|個人開発|PHP/Heroku|Qiita自動更新|[Qiita API(PHP)とHerokuを使って自動更新の記事を作る](https://qiita.com/hikarut/items/f6349e74fd02eb94a2ab)|
+|2016年3月|個人開発|PHP / Heroku|Qiita自動更新|[Qiita API(PHP)とHerokuを使って自動更新の記事を作る](https://qiita.com/hikarut/items/f6349e74fd02eb94a2ab)|
 |2016年11月|個人開発|Swift|iOSアプリ|[アプリ開発未経験者がiOSアプリをストアに公開した話](https://qiita.com/hikarut/items/586bc1c6582efcd43f2b)|
-|2017年2月|チーム開発|MindWave(NeuroSky)/Bluetooth/WebSocket/Swift/Python/JavaScript|iOSアプリ|[脳波でスカートをめくるP-WAVEを開発した話](https://qiita.com/hikarut/items/c8087fe178ceb94f3ce9)|
-|2019年5月|個人開発|Nuxt/Netlify/Contentful/Python/Firebase/Heroku|エンジニアのための複業メディアサイト「Fukugyou」 → https://fukugyou.dev|[Nuxt,Netlify,Contentful,Python,Firebase,Herokuを使った無料でサーバレスな複業メディアサイトを作った話](https://qiita.com/hikarut/items/b1584ddffda62f726329)|
+|2017年2月|チーム開発|MindWave(NeuroSky) / WebSocket / Swift / Python / JavaScript|iOSアプリ|[脳波でスカートをめくるP-WAVEを開発した話](https://qiita.com/hikarut/items/c8087fe178ceb94f3ce9)|
+|2019年5月|個人開発|Nuxt / Netlify / Contentful / Python / Firebase / Heroku|エンジニアのための複業メディアサイト「Fukugyou」 → https://fukugyou.dev|[Nuxt,Netlify,Contentful,Python,Firebase,Herokuを使った無料でサーバレスな複業メディアサイトを作った話](https://qiita.com/hikarut/items/b1584ddffda62f726329)|
 
