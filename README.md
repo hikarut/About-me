@@ -1,5 +1,5 @@
 # About-me
-最終更新 2020/07/22
+最終更新 2020/08/04
 
 ## 基本情報
 
@@ -68,6 +68,7 @@ TensorFlow / Colaboratory / 基礎統計学 / t検定 / ウィルコクソンの
 * [複業イベント(Another Worker's Runway)](https://peatix.com/event/1496243?fbclid=IwAR3QtnhQbw-Evx4QidJwJfuR-7RleqyiNEdasSfzsEZHSJuPGYpGwlfUWTo)
 * [第５回 データアーキテクト（データ整備人）を”前向きに”考える会](https://speakerdeck.com/hikarut/zerokarazuo-tuta-detasaiensuzu-zhi-deyi-shi-sitashi)
 * [Sports Analyst Meetup #8](https://speakerdeck.com/hikarut/briguniokerusheng-bai-toarinaji-ke-fen-xi)
+* [Members. data #2 データ可視化・ライブラリLT編 [オンライン]](https://speakerdeck.com/hikarut/dtreeviz)
 
 
 ## 個人開発歴
