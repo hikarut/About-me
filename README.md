@@ -9,6 +9,7 @@
 |Twitter|[@light940](https://twitter.com/light940)|
 |Qiita|[hikarut](https://qiita.com/hikarut)|
 |Speakerdeck|[hikarut](https://speakerdeck.com/hikarut)|
+|Mail|ht.hikaru.takahashi@gmail.com|
 
 #### 本業
 * Webエンジニアからのデータサイエンティスト+マネジメント
@@ -96,7 +97,3 @@ TensorFlow / Colaboratory / 基礎統計学 / t検定 / ウィルコクソンの
 |2016年11月|個人開発|Swift|iOSアプリ|[アプリ開発未経験者がiOSアプリをストアに公開した話](https://qiita.com/hikarut/items/586bc1c6582efcd43f2b)|
 |2017年2月|チーム開発|MindWave(NeuroSky) / WebSocket / Swift / Python / JavaScript|iOSアプリ|[脳波でスカートをめくるP-WAVEを開発した話](https://qiita.com/hikarut/items/c8087fe178ceb94f3ce9)|
 |2019年5月|個人開発|Nuxt / Netlify / Contentful / Python / Firebase / Heroku|エンジニアのための複業メディアサイト「Fukugyou」 → https://fukugyou.dev|[Nuxt,Netlify,Contentful,Python,Firebase,Herokuを使った無料でサーバレスな複業メディアサイトを作った話](https://qiita.com/hikarut/items/b1584ddffda62f726329)|
-
-
-## 問合せ
-ht.hikaru.takahashi@gmail.com
