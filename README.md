@@ -1,5 +1,5 @@
 # About-me
-最終更新 2020/08/14
+最終更新 2020/09/14
 
 ## 基本情報
 
@@ -25,14 +25,14 @@
 PHP / JavaScript / Node.js / Express / Vue / Nuxt / Vuetify / EJS / Jest / Bootstrap / WordPress / Oracle / MySQL / Netlify / Contentful / MicroCMS / ESLint / GitHub / HTML / CSS / vim / tmux
 
 ###### 触ったことがある
-Linux / Apache / bash / zsh / PHPUnit / Swift / ReactNative / Heroku / Firebase / Webpack / Swagger / obniz / C / Objective-C / Java / Perl / GO / Redis / AVA / CakePHP / Cassandra / SpringBoot / AWS(S3, CloudFront, EC2, Elasticsearch) / Solr / React / Teradata / Hadoop / Docker / MindWave / Kibana / Fluentd / PCF / GCP / Infomatica / FastAPI / CircleCI
+Linux / Apache / bash / zsh / PHPUnit / Swift / ReactNative / Heroku / Firebase / Webpack / Swagger / obniz / TypeScript / C / Objective-C / Java / Perl / GO / Redis / AVA / CakePHP / Cassandra / SpringBoot / AWS(S3, CloudFront, EC2, Elasticsearch) / Solr / React / Teradata / Hadoop / Docker / MindWave / Kibana / Fluentd / PCF / GCP / Infomatica / FastAPI / CircleCI
 
 ### データサイエンティスト
 ###### できる
 Python / Jupyter Notebook / Tableau / Google Analytics / Google Data Studio / SQL
 
 ###### 触ったことがある
-TensorFlow / Colaboratory / 基礎統計学 / t検定 / ウィルコクソンの順位和検定 / ウィルコクソンの符号順位和検定 / 割合の差の検定(比率の差の検定) / カイ二乗検定 / 単回帰分析 / 重回帰分析 / ロジスティック回帰分析 / 決定木分析 / 機械学習
+TensorFlow / Colaboratory / 基礎統計学 / t検定 / ウィルコクソンの順位和検定 / ウィルコクソンの符号順位和検定 / 割合の差の検定(比率の差の検定) / カイ二乗検定 / 単回帰分析 / 重回帰分析 / ロジスティック回帰分析 / 決定木分析 / DID(差分の差分法) / CausalImpact / 機械学習
 
 ## 強み
 * フロントエンド、サーバサイド、バックエンドなどフルスタックでWebサービスを企画、設計、開発、運用ができるエンジニアリングスキル
