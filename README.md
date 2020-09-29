@@ -1,5 +1,5 @@
 # About-me
-最終更新 2020/09/14
+最終更新 2020/09/30
 
 ## 基本情報
 
@@ -32,7 +32,7 @@ Linux / Apache / bash / zsh / PHPUnit / Swift / ReactNative / Heroku / Firebase 
 Python / Jupyter Notebook / Tableau / Google Analytics / Google Data Studio / SQL
 
 ###### 触ったことがある
-TensorFlow / Colaboratory / 基礎統計学 / t検定 / ウィルコクソンの順位和検定 / ウィルコクソンの符号順位和検定 / 割合の差の検定(比率の差の検定) / カイ二乗検定 / 単回帰分析 / 重回帰分析 / ロジスティック回帰分析 / 決定木分析 / DID(差分の差分法) / CausalImpact / 機械学習
+TensorFlow / Colaboratory / 基礎統計学 / t検定 / ウィルコクソンの順位和検定 / ウィルコクソンの符号順位和検定 / 割合の差の検定(比率の差の検定) / カイ二乗検定 / 単回帰分析 / 重回帰分析 / ロジスティック回帰分析 / 決定木分析 / DID(差分の差分法) / CausalImpact / 機械学習 / Mecab / WordCloud / jStat
 
 ## 強み
 * フロントエンド、サーバサイド、バックエンドなどフルスタックでWebサービスを企画、設計、開発、運用ができるエンジニアリングスキル
@@ -97,3 +97,4 @@ TensorFlow / Colaboratory / 基礎統計学 / t検定 / ウィルコクソンの
 |2016年11月|個人開発|Swift|iOSアプリ|[アプリ開発未経験者がiOSアプリをストアに公開した話](https://qiita.com/hikarut/items/586bc1c6582efcd43f2b)|
 |2017年2月|チーム開発|MindWave(NeuroSky) / WebSocket / Swift / Python / JavaScript|iOSアプリ|[脳波でスカートをめくるP-WAVEを開発した話](https://qiita.com/hikarut/items/c8087fe178ceb94f3ce9)|
 |2019年5月|個人開発|Nuxt / Netlify / Contentful / Python / Firebase / Heroku|エンジニアのための複業メディアサイト「Fukugyou」 → https://fukugyou.dev|[Nuxt,Netlify,Contentful,Python,Firebase,Herokuを使った無料でサーバレスな複業メディアサイトを作った話](https://qiita.com/hikarut/items/b1584ddffda62f726329)|
+|2020年9月|個人開発|Nuxt / Netlify / TypeScript / jStat|データ分析ツール「Data Analytics Tool」 → https://data-analytics-tool.com/| |
