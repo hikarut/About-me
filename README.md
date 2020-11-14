@@ -88,6 +88,7 @@ TensorFlow / Colaboratory / 基礎統計学 / t検定 / ウィルコクソンの
 |2020年7月|[第５回 データアーキテクト（データ整備人）を”前向きに”考える会](https://analytics-and-intelligence.connpass.com/event/180202/)|[ゼロから作った データサイエンス組織で意識した事](https://speakerdeck.com/hikarut/zerokarazuo-tuta-detasaiensuzu-zhi-deyi-shi-sitashi)|
 |2020年7月|[Sports Analyst Meetup #8](https://spoana.connpass.com/event/179989/)|[Bリーグにおける勝敗とアリーナ集客分析](https://speakerdeck.com/hikarut/briguniokerusheng-bai-toarinaji-ke-fen-xi)|
 |2020年7月|[Members. data #2 データ可視化・ライブラリLT編](https://dataadventure.connpass.com/event/180908/)|[Bリーグデータから学ぶ決定木分析結果の可視化(graphviz/dtreeviz)](https://speakerdeck.com/hikarut/dtreeviz)|
+|2020年11月|[CROSS Party online 2020 データ整備人が語る！DXにも不可欠なデータ整備の姿(パネルディスカッション登壇)](https://www.cross-party.com/sessions/58Hvs6ep)|[アーカイブ](https://youtu.be/1_p6c8nOs7k?t=6486)|
 
 
 ## 個人開発歴
