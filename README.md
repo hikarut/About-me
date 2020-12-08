@@ -1,5 +1,5 @@
 # About-me
-最終更新 2020/11/14
+最終更新 2020/12/08
 
 ## 基本情報
 
@@ -12,7 +12,7 @@
 |Mail|ht.hikaru.takahashi@gmail.com|
 
 #### 本業
-* Webエンジニアからのデータサイエンティスト+マネジメント
+* Webエンジニアからのデータアナリスト+マネジメント
 
 #### 複業/副業
 * ベンチャー企業CTOを経てB.LEAGUEクラブチームのマーケティングストラテジストとしてデータ分析を担当
@@ -37,7 +37,7 @@ TensorFlow / Colaboratory / 基礎統計学 / t検定 / ウィルコクソンの
 ## 強み
 * フロントエンド、サーバサイド、バックエンドなどフルスタックでWebサービスを企画、設計、開発、運用ができるエンジニアリングスキル
 * 1on1、メンター、エンジニア採用などエンジニア、非エンジニア含めたチームマネジメントと組織作り
-* データ分析によって事業課題を解決するデータサイエンティストとしてのスキル
+* データ分析によって事業課題を解決するデータアナリストとしてのスキル
 * 複業(副業)経験による複業(副業)人財のマネジメントと複業(副業)人財の有効活用方法の知見
 
 
@@ -54,6 +54,7 @@ TensorFlow / Colaboratory / 基礎統計学 / t検定 / ウィルコクソンの
 |---|-----|---|
 |2017年4月|株式会社エッグシステム|・Webエンジニアとしてサービスの開発/企画/ディレクション<br>・CTOとして開発から複業/副業メンバーのマネジメントやコードレビュー<br>・セミナー講師|
 |2020年4月|茨城ロボッツ|・マーケティングストラテジストとしてのデータ分析|
+|2020年11月|Lapras|・エンジニアスカウト|
 
 #### コミュニティ
 |年|会社|内容|
@@ -89,6 +90,13 @@ TensorFlow / Colaboratory / 基礎統計学 / t検定 / ウィルコクソンの
 |2020年7月|[Sports Analyst Meetup #8](https://spoana.connpass.com/event/179989/)|[Bリーグにおける勝敗とアリーナ集客分析](https://speakerdeck.com/hikarut/briguniokerusheng-bai-toarinaji-ke-fen-xi)|
 |2020年7月|[Members. data #2 データ可視化・ライブラリLT編](https://dataadventure.connpass.com/event/180908/)|[Bリーグデータから学ぶ決定木分析結果の可視化(graphviz/dtreeviz)](https://speakerdeck.com/hikarut/dtreeviz)|
 |2020年11月|[CROSS Party online 2020 データ整備人が語る！DXにも不可欠なデータ整備の姿(パネルディスカッション登壇)](https://www.cross-party.com/sessions/58Hvs6ep)|[アーカイブ](https://youtu.be/1_p6c8nOs7k?t=6486)|
+
+
+## メディア掲出
+|日付|内容|
+|---|-----|
+|2020年12月8日|[ニューワーカー 新常態の芽生え（2）　副業で専門性極める](https://www.nikkei.com/article/DGKKZO67090320X01C20A2MM8000)|
+
 
 
 ## 個人開発歴
