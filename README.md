@@ -27,7 +27,7 @@ PHP / JavaScript / Node.js / Express / Vue / Nuxt / Vuetify / EJS / Jest / Boots
 ###### 触ったことがある
 Linux / Apache / bash / zsh / PHPUnit / Swift / ReactNative / Heroku / Firebase / Webpack / Swagger / obniz / TypeScript / C / Objective-C / Java / Perl / GO / Redis / AVA / CakePHP / Cassandra / SpringBoot / AWS(S3, CloudFront, EC2, Elasticsearch) / Solr / React / Teradata / Hadoop / Docker / MindWave / Kibana / Fluentd / PCF / GCP / Infomatica / FastAPI / CircleCI
 
-### データサイエンティスト
+### データアナリスト
 ###### できる
 Python / Jupyter Notebook / Tableau / Google Analytics / Google Data Studio / SQL
 
