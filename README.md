@@ -1,5 +1,5 @@
 # About-me
-最終更新 2020/12/08
+最終更新 2021/02/22
 
 ## 基本情報
 
@@ -90,6 +90,7 @@ TensorFlow / Colaboratory / 基礎統計学 / t検定 / ウィルコクソンの
 |2020年7月|[Sports Analyst Meetup #8](https://spoana.connpass.com/event/179989/)|[Bリーグにおける勝敗とアリーナ集客分析](https://speakerdeck.com/hikarut/briguniokerusheng-bai-toarinaji-ke-fen-xi)|
 |2020年7月|[Members. data #2 データ可視化・ライブラリLT編](https://dataadventure.connpass.com/event/180908/)|[Bリーグデータから学ぶ決定木分析結果の可視化(graphviz/dtreeviz)](https://speakerdeck.com/hikarut/dtreeviz)|
 |2020年11月|[CROSS Party online 2020 データ整備人が語る！DXにも不可欠なデータ整備の姿(パネルディスカッション登壇)](https://www.cross-party.com/sessions/58Hvs6ep)|[アーカイブ](https://youtu.be/1_p6c8nOs7k?t=6486)|
+|2021年1月|[第11回 意思決定のためのデータ分析勉強会 in Fukuoka(オンライン)](https://ishikettei.connpass.com/event/197511/)|[意思決定に繋げるための因果推論（DID）と PythonによるCausalImpact](https://speakerdeck.com/hikarut/yi-si-jue-ding-nixi-gerutamefalseyin-guo-tui-lun-did-to-pythonniyorucausalimpact)|
 
 
 ## メディア掲出
