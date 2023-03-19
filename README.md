@@ -1,5 +1,5 @@
 # About-me
-最終更新 2021/08/22
+最終更新 2023/03/19
 
 ## 基本情報
 
@@ -15,10 +15,13 @@
 #### 本業
 * Webエンジニアからのデータアナリスト+マネジメントの経験を経て現職はコンサル
 
-#### 複業/副業
-* ベンチャー企業CTOを経てB.LEAGUEクラブチームのマーケティングストラテジストとしてデータ分析を担当
-* エンジニアスカウトサポート業務で100名以上のエンジニアのGitHubやQiita等のアウトプットを確認して採用のお手伝いを担当
+#### 複業 / 副業
+* ベンチャー企業にてHP作成やサイト開発など
+* B.LEAGUEクラブチームのマーケティングストラテジストとしてデータ分析を担当
+* エンジニアスカウトサポート業務で100名以上のエンジニアのGitHubやQiita等のアウトプットを確認して採用のサポート
+* SQLやBIツールを使った社内のデータ分析業務のサポート
 * Nuxt+Netlify+Python+Heroku+Firebaseを使ったエンジニア向け複業メディアサイト運営 → https://fukugyou.dev
+* 『データ分析力を高める　ビジネスパーソンのためのSQL入門』著書　→ https://www.amazon.co.jp/dp/4297134438/
 
 
 ## スキル
@@ -31,10 +34,10 @@ Linux / Apache / bash / zsh / PHPUnit / Swift / ReactNative / Heroku / Firebase 
 
 ### データアナリスト
 ###### できる
-Python / Jupyter Notebook / Tableau / Google Analytics / Google Data Studio / SQL
+Python / Jupyter Notebook / Tableau / Power BI / Google Analytics / Google Data Studio / SQL
 
 ###### 触ったことがある
-Treasure Data / BigQuery / Redash / TensorFlow / Colaboratory / 基礎統計学 / t検定 / ウィルコクソンの順位和検定 / ウィルコクソンの符号順位和検定 / 割合の差の検定(比率の差の検定) / カイ二乗検定 / 単回帰分析 / 重回帰分析 / ロジスティック回帰分析 / 決定木分析 / DID(差分の差分法) / CausalImpact / 機械学習 / Mecab / WordCloud / jStat
+Treasure Data / BigQuery / Redash / TensorFlow / Colaboratory / 基礎統計学 / t検定 / ウィルコクソンの順位和検定 / ウィルコクソンの符号順位和検定 / 割合の差の検定(比率の差の検定) / カイ二乗検定 / 単回帰分析 / 重回帰分析 / ロジスティック回帰分析 / 決定木分析 / DID(差分の差分法) / CausalImpact / 機械学習 / Mecab / WordCloud / jStat / KARTE
 
 ## 強み
 * フロントエンド、サーバサイド、バックエンドなどフルスタックでWebサービスを企画、設計、開発、運用ができるエンジニアリングスキル
@@ -50,14 +53,14 @@ Treasure Data / BigQuery / Redash / TensorFlow / Colaboratory / 基礎統計学 
 |2011年4月〜2021年3月|Yahoo! JAPAN|・Webエンジニアとして新卒入社<br>・Webサービスの開発/運用などを担当|
 |2016年10月〜2019年3月|イーブックイニシアティブジャパン(出向)|・Webエンジニアとしてサービスの設計/開発/運用/マネジメント|
 |2019年4月〜2021年3月|イーブックイニシアティブジャパン(出向)|・データサイエンスグループ　グループマネージャー(部長)<br>・データサイエンス組織のマネジメント<br>・データを活かした事業貢献サポートやプロダクト開発|
-|2021年5月〜|アクセンチュア|・データ分析、データ活用コンサルタント|
+|2021年5月〜|アクセンチュア|・データ分析、データ活用コンサルタント、マーケティング支援|
 
-#### 複業/副業
+#### 複業 / 副業
 |年|会社|内容|
 |---|-----|---|
-|2017年4月〜|株式会社エッグシステム|・Webエンジニアとしてサービスの開発/企画/ディレクション<br>・CTOとして開発から複業/副業メンバーのマネジメントやコードレビュー<br>・セミナー講師<br>・データ分析|
-|2020年4月〜2021年5月|茨城ロボッツ|・マーケティングストラテジストとしてのデータ分析<br>・チケット購買データ分析<br>・来場者アンケート分析など|
-|2020年11月〜|LAPRAS株式会社|・エンジニアスカウトサポート<br>・データ分析|
+|2017年4月〜|株式会社エッグシステム|・Webエンジニアとしてサービスの開発/企画/ディレクション<br>・開発から複業/副業メンバーのマネジメントやコードレビュー<br>・セミナー講師<br>・データ分析|
+|2020年4月〜|茨城ロボッツ|・マーケティングストラテジストとしてのデータ分析<br>・チケット購買データ分析<br>・来場者アンケート分析など|
+|2020年11月〜2022年6月|LAPRAS株式会社|・エンジニアスカウトサポート<br>・データ分析|
 
 #### コミュニティ
 |年|会社|内容|
@@ -96,11 +99,11 @@ Treasure Data / BigQuery / Redash / TensorFlow / Colaboratory / 基礎統計学 
 |2021年1月|[第11回 意思決定のためのデータ分析勉強会 in Fukuoka(オンライン)](https://ishikettei.connpass.com/event/197511/)|[意思決定に繋げるための因果推論（DID）と PythonによるCausalImpact](https://speakerdeck.com/hikarut/yi-si-jue-ding-nixi-gerutamefalseyin-guo-tui-lun-did-to-pythonniyorucausalimpact)|
 
 
-## メディア掲出
+## 執筆・メディア掲出
 |日付|内容|
 |---|-----|
+|2023年3月16日|[データ分析力を高める　ビジネスパーソンのためのSQL入門](https://www.amazon.co.jp/dp/4297134438/)出版|
 |2020年12月8日|[ニューワーカー 新常態の芽生え（2）　副業で専門性極める](https://www.nikkei.com/article/DGKKZO67090320X01C20A2MM8000)|
-
 
 
 ## 個人開発歴
