@@ -1,5 +1,5 @@
 # About-me
-最終更新 2023/03/19
+最終更新 2023/03/20
 
 ## 基本情報
 
@@ -12,16 +12,21 @@
 |note|[hikarut](https://note.com/hikarut)|
 |Mail|ht.hikaru.takahashi@gmail.com|
 
-#### 本業
-* Webエンジニアからのデータアナリスト+マネジメントの経験を経て現職はコンサル
+## プロフィール
+### 略歴
+2011年に新卒でヤフー株式会社に入社し、Webエンジニアとしてサービスの開発、運用、企画、提案、など幅広くサービスに貢献。HadoopやTeradataを利用したデータ分析やTableauを使った可視化など、データを活用してサービスを成長させる仕組みを導入するなどデータ分析に関わる業務も担当。
+2016年からは株式会社イーブックイニシアティブジャパンに出向し、社内でデータサイエンスグループを立ち上げグループマネジャー(部長)として社内のデータ活用を促進。マーケティング施策の効果検証、事業分析、プロダクトのABテストなどデータを活用した意思決定に貢献。チームメンバーのSQLスキルアップや社内全体でのSQL勉強会などのデータ活用スキルアップ活動なども行い、組織全体をデータドリブンにする活動を実施。
 
-#### 複業 / 副業
-* ベンチャー企業にてHP作成やサイト開発など
-* B.LEAGUEクラブチームのマーケティングストラテジストとしてデータ分析を担当
-* エンジニアスカウトサポート業務で100名以上のエンジニアのGitHubやQiita等のアウトプットを確認して採用のサポート
-* SQLやBIツールを使った社内のデータ分析業務のサポート
-* Nuxt+Netlify+Python+Heroku+Firebaseを使ったエンジニア向け複業メディアサイト運営 → https://fukugyou.dev
-* 『データ分析力を高める　ビジネスパーソンのためのSQL入門』著書　→ https://www.amazon.co.jp/dp/4297134438/
+2021年から外資系コンサルティング企業に入社し、SQLを使ったデータ分析などデータを活用したマーケティング支援を実施。2023年に個人として『[データ分析力を高める　ビジネスパーソンのためのSQL入門](https://www.amazon.co.jp/dp/4297134438/)』を出版。
+
+複業としてプロバスケットボールリーグ(Bリーグ)のクラブチームで、マーケティングストラテジストとしてデータ分析のサポートを行ったり、その他複数社でSQLを活用したデータ分析のサポート経験あり。
+
+### 強み
+* フロントエンド、サーバサイド、バックエンドなどフルスタックでWebサービスを企画、設計、開発、運用ができるエンジニアリングスキル
+* 1on1、メンター、エンジニア採用などエンジニア、非エンジニア含めたチームマネジメントと組織作り
+* SQL、Python、統計学を用いたデータ分析によって事業課題を解決するデータアナリストとしてのスキル
+* デジタルマーケティング領域におけるKPI設計から施策のプランニング、実行、分析を1人で実現できるスキル
+* 複業(副業)経験による複業(副業)人材のマネジメントと複業(副業)人材の有効活用方法の知見
 
 
 ## スキル
@@ -32,18 +37,12 @@ PHP / JavaScript / Node.js / Express / Vue / Nuxt / Vuetify / EJS / Jest / Boots
 ###### 触ったことがある
 Linux / Apache / bash / zsh / PHPUnit / Swift / ReactNative / Heroku / Firebase / Webpack / Swagger / obniz / TypeScript / C / Objective-C / Java / Perl / GO / Redis / AVA / CakePHP / Cassandra / SpringBoot / AWS(S3, CloudFront, EC2, Elasticsearch) / Solr / React / Teradata / Hadoop / Docker / MindWave / Kibana / Fluentd / PCF / GCP / Infomatica / FastAPI / CircleCI
 
-### データアナリスト
+### デジタルマーケティング・データアナリスト
 ###### できる
-Python / Jupyter Notebook / Tableau / Power BI / Google Analytics / Google Data Studio / SQL
+Python / Jupyter Notebook / Tableau / Power BI / Google Analytics / Google Data Studio / SQL / アクセス解析 / 顧客分析 / KPI設計 / UI・UX改善
 
 ###### 触ったことがある
-Treasure Data / BigQuery / Redash / TensorFlow / Colaboratory / 基礎統計学 / t検定 / ウィルコクソンの順位和検定 / ウィルコクソンの符号順位和検定 / 割合の差の検定(比率の差の検定) / カイ二乗検定 / 単回帰分析 / 重回帰分析 / ロジスティック回帰分析 / 決定木分析 / DID(差分の差分法) / CausalImpact / 機械学習 / Mecab / WordCloud / jStat / KARTE
-
-## 強み
-* フロントエンド、サーバサイド、バックエンドなどフルスタックでWebサービスを企画、設計、開発、運用ができるエンジニアリングスキル
-* 1on1、メンター、エンジニア採用などエンジニア、非エンジニア含めたチームマネジメントと組織作り
-* SQL、Python、統計学を用いたデータ分析によって事業課題を解決するデータアナリストとしてのスキル
-* 複業(副業)経験による複業(副業)人財のマネジメントと複業(副業)人財の有効活用方法の知見
+Treasure Data / BigQuery / Redash / TensorFlow / Colaboratory / 基礎統計学 / t検定 / ウィルコクソンの順位和検定 / ウィルコクソンの符号順位和検定 / 割合の差の検定(比率の差の検定) / カイ二乗検定 / 単回帰分析 / 重回帰分析 / ロジスティック回帰分析 / 決定木分析 / DID(差分の差分法) / CausalImpact / 機械学習 / Mecab / WordCloud / jStat / アンケート設計 / NPS / KARTE
 
 
 ## 職務経歴
@@ -58,9 +57,9 @@ Treasure Data / BigQuery / Redash / TensorFlow / Colaboratory / 基礎統計学 
 #### 複業 / 副業
 |年|会社|内容|
 |---|-----|---|
-|2017年4月〜|株式会社エッグシステム|・Webエンジニアとしてサービスの開発/企画/ディレクション<br>・開発から複業/副業メンバーのマネジメントやコードレビュー<br>・セミナー講師<br>・データ分析|
+|2017年4月〜2020年2月|株式会社エッグシステム|・Webエンジニアとしてサービスの開発/企画/ディレクション<br>・開発から複業/副業メンバーのマネジメントやコードレビュー<br>・セミナー講師<br>・データ分析|
 |2020年4月〜|茨城ロボッツ|・マーケティングストラテジストとしてのデータ分析<br>・チケット購買データ分析<br>・来場者アンケート分析など|
-|2020年11月〜2022年6月|LAPRAS株式会社|・エンジニアスカウトサポート<br>・データ分析|
+|2020年11月〜2022年6月|LAPRAS株式会社|・エンジニアスカウトサポート業務で100名以上のエンジニアのGitHubやQiita等のアウトプットを確認して採用のサポート<br>・SQLやBIツールを使った社内のデータ分析業務のサポート|
 
 #### コミュニティ
 |年|会社|内容|
@@ -102,8 +101,8 @@ Treasure Data / BigQuery / Redash / TensorFlow / Colaboratory / 基礎統計学 
 ## 執筆・メディア掲出
 |日付|内容|
 |---|-----|
-|2023年3月16日|[データ分析力を高める　ビジネスパーソンのためのSQL入門](https://www.amazon.co.jp/dp/4297134438/)出版|
 |2020年12月8日|[ニューワーカー 新常態の芽生え（2）　副業で専門性極める](https://www.nikkei.com/article/DGKKZO67090320X01C20A2MM8000)|
+|2023年3月16日|[データ分析力を高める　ビジネスパーソンのためのSQL入門](https://www.amazon.co.jp/dp/4297134438/) 出版|
 
 
 ## 個人開発歴
