@@ -1,5 +1,5 @@
 # About-me
-最終更新 2023/03/20
+最終更新 2023/03/24
 
 ## 基本情報
 
@@ -95,8 +95,9 @@ Treasure Data / BigQuery / Redash / TensorFlow / Colaboratory / 基礎統計学 
 |2020年7月|[第５回 データアーキテクト（データ整備人）を”前向きに”考える会](https://analytics-and-intelligence.connpass.com/event/180202/)|[ゼロから作った データサイエンス組織で意識した事](https://speakerdeck.com/hikarut/zerokarazuo-tuta-detasaiensuzu-zhi-deyi-shi-sitashi)|
 |2020年7月|[Sports Analyst Meetup #8](https://spoana.connpass.com/event/179989/)|[Bリーグにおける勝敗とアリーナ集客分析](https://speakerdeck.com/hikarut/briguniokerusheng-bai-toarinaji-ke-fen-xi)|
 |2020年7月|[Members. data #2 データ可視化・ライブラリLT編](https://dataadventure.connpass.com/event/180908/)|[Bリーグデータから学ぶ決定木分析結果の可視化(graphviz/dtreeviz)](https://speakerdeck.com/hikarut/dtreeviz)|
-|2020年11月|[CROSS Party online 2020 データ整備人が語る！DXにも不可欠なデータ整備の姿(パネルディスカッション登壇)](https://www.cross-party.com/sessions/58Hvs6ep)|[アーカイブ](https://youtu.be/1_p6c8nOs7k?t=6486)|
+|2020年11月|[CROSS Party online 2020 データ整備人が語る！DXにも不可欠なデータ整備の姿(パネルディスカッション登壇)](https://cross-party.com/sessions/58Hvs6ep)|[アーカイブ](https://youtu.be/1_p6c8nOs7k?t=6486)|
 |2021年1月|[第11回 意思決定のためのデータ分析勉強会 in Fukuoka(オンライン)](https://ishikettei.connpass.com/event/197511/)|[意思決定に繋げるための因果推論（DID）と PythonによるCausalImpact](https://speakerdeck.com/hikarut/yi-si-jue-ding-nixi-gerutamefalseyin-guo-tui-lun-did-to-pythonniyorucausalimpact)|
+|2021年11月|[CROSS Party online 2021 帰ってきた前向きデータ整備人が語る！コロナ禍におけるデータ整備の姿](https://qiita.com/Shumpei_Kubo/items/c1320a6efa8c2f5aad0f)|[アーカイブ](https://www.youtube.com/watch?v=S_r6XACxe2M&t=6067s)|
 
 
 ## 執筆・メディア掲出
