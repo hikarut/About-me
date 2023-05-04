@@ -98,6 +98,7 @@ Treasure Data / BigQuery / Redash / TensorFlow / Colaboratory / 基礎統計学 
 |2020年11月|[CROSS Party online 2020 データ整備人が語る！DXにも不可欠なデータ整備の姿(パネルディスカッション登壇)](https://cross-party.com/sessions/58Hvs6ep)|[アーカイブ](https://youtu.be/1_p6c8nOs7k?t=6486)|
 |2021年1月|[第11回 意思決定のためのデータ分析勉強会 in Fukuoka(オンライン)](https://ishikettei.connpass.com/event/197511/)|[意思決定に繋げるための因果推論（DID）と PythonによるCausalImpact](https://speakerdeck.com/hikarut/yi-si-jue-ding-nixi-gerutamefalseyin-guo-tui-lun-did-to-pythonniyorucausalimpact)|
 |2021年11月|[CROSS Party online 2021 帰ってきた前向きデータ整備人が語る！コロナ禍におけるデータ整備の姿](https://qiita.com/Shumpei_Kubo/items/c1320a6efa8c2f5aad0f)|[アーカイブ](https://www.youtube.com/watch?v=S_r6XACxe2M&t=6067s)|
+|2023年4月|[出版記念セミナー！30分でわかる「データ分析力を高める ビジネスパーソンのためのSQL入門」](https://blog.trocco.io/seminar/sql-book_20230425)|[発表資料](https://speakerdeck.com/hikarut/tetafen-xi-li-wogao-meru-hisinesuhasonnotamenosqlru-men-chu-ban-ji-nian-semina)|
 
 
 ## 執筆・メディア掲出
