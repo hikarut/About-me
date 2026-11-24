@@ -116,6 +116,7 @@ Linux / Apache / bash / zsh / PHPUnit / Swift / ReactNative / Heroku / Firebase 
 ## 個人開発歴
 |年|開発単位|使用技術|内容|資料|
 |---|---|---|---|---|
+|2026年10月|個人開発|Next / Vercel / Neon |SQL学習サイトSQL Everyone → https://sql-everyone.com/| |
 |2020年9月|個人開発|Nuxt / Netlify / TypeScript / jStat|データ分析ツール「Data Analytics Tool」 → https://data-analytics-tool.com/| |
 |2019年5月|個人開発|Nuxt / Netlify / Contentful / Python / Firebase / Heroku|エンジニアのための複業メディアサイト「Fukugyou」 → https://fukugyou.dev|[Nuxt,Netlify,Contentful,Python,Firebase,Herokuを使った無料でサーバレスな複業メディアサイトを作った話](https://qiita.com/hikarut/items/b1584ddffda62f726329)|
 |2017年2月|チーム開発|MindWave(NeuroSky) / WebSocket / Swift / Python / JavaScript|iOSアプリ|[脳波でスカートをめくるP-WAVEを開発した話](https://qiita.com/hikarut/items/c8087fe178ceb94f3ce9)|
